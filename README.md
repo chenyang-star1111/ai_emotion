@@ -33,11 +33,9 @@ npm run dev
 ## 项目截图
 
 | 首页 | AI 心理咨询 |
-|:---:|:---:|
-| ![首页](public/screenshots/home.png) | ![AI 对话](public/screenshots/chat.png) |
+![首页](public/screenshots/home.png) | ![AI 对话](public/screenshots/chat.png) 
 
 | 情绪日记 | 管理端看板 |
-|:---:|:---:|
-| ![情绪日记](public/screenshots/mood.png) | ![管理端](public/screenshots/dashboard.png) |
+![情绪日记](public/screenshots/mood.png) | ![管理端](public/screenshots/dashboard.png) 
 
 ---
