@@ -28,6 +28,7 @@
 ```bash
 npm install
 npm run dev
+```
 
 ## 项目截图
 
